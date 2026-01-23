@@ -1,16 +1,30 @@
-## Hi there 👋
+# Enrique Hernandez 👋
+**Digital / Product Analytics | SQL • Power BI • Python | Streaming + E-commerce KPIs**
 
-<!--
-**ehernandez101/ehernandez101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Database Engineer transitioning into Digital Analytics roles.  
+I build KPI reporting, dashboards, and analysis focused on **retention, engagement, conversion funnels, and marketing performance**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- 🎬 **Streaming Retention & Engagement — Subscription Analytics**
+  - Cohort retention, churn drivers, engagement segmentation
+- 🛒 **E-commerce Funnel + Revenue Insights — Retail Analytics**
+  - Funnel drop-off, AOV, repeat purchase rate, top products
+- 📣 **Marketing Channel Performance — Growth Analytics**
+  - Channel reporting, CAC/ROAS-style performance insights
+- 🧪 **A/B Testing — Product Experimentation**
+  - Hypothesis testing, metric definitions, experiment results summary
+
+---
+
+## 🧰 Tools
+- SQL
+- Power BI
+- Python (Pandas / Matplotlib)
+- Excel
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/enriquehernandeznavyvet
