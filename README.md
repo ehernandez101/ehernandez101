@@ -1,20 +1,25 @@
 # Enrique Hernandez 👋
-**Digital / Product Analytics | SQL • Power BI • Python | Streaming + E-commerce KPIs**
+**Digital / Product Analytics | SQL • Python • Power BI | Streaming, Retention & Engagement Analytics**
 
 I’m a Database Engineer transitioning into Digital Analytics roles.  
-I build KPI reporting, dashboards, and analysis focused on **retention, engagement, conversion funnels, and marketing performance**.
+I build analytics projects focused on **subscriber retention, engagement trends, conversion funnels, and KPI storytelling.**.
 
+Current focus:
+- Streaming platform analytics
+- Product engagement insights
+- Retention & churn analysis
+- Executive dashboard reporting
 ---
 
 ## 🔥 Featured Projects
-- 🎬 **Streaming Retention & Engagement — Subscription Analytics**
-  - Cohort retention, churn drivers, engagement segmentation
+- 🎬 **Streaming Subscriber Analytics Dashboard**
+  - Subscriber growth, churn analysis, watch behavior, retention cohorts, and engagement KPIs.
 - 🛒 **E-commerce Funnel + Revenue Insights — Retail Analytics**
-  - Funnel drop-off, AOV, repeat purchase rate, top products
+  - Checkout funnel analysis, AOV trends, repeat purchases, and revenue insights.
 - 📣 **Marketing Channel Performance — Growth Analytics**
-  - Channel reporting, CAC/ROAS-style performance insights
+  - Channel spend efficiency, ROAS trends, CAC analysis, and campaign KPI reporting.
 - 🧪 **A/B Testing — Product Experimentation**
-  - Hypothesis testing, metric definitions, experiment results summary
+  - Experiment measurement, KPI lift analysis, statistical testing, and decision reporting.
 
 ---
 
