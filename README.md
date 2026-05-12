@@ -46,7 +46,17 @@ Current focus:
 
 ## 📊 Dashboard Preview
 
-![Dashboard](visuals/dashboard_preview.png)
+### Daily Active Users
+![DAU](https://raw.githubusercontent.com/ehernandez101/streaming-retention-analysis/main/visuals/dau_trend.png)
+
+### Watch Minutes by Plan
+![Watch Minutes](https://raw.githubusercontent.com/ehernandez101/streaming-retention-analysis/main/visuals/watch_minutes_by_plan.png)
+
+### Sessions by Device
+![Sessions](https://raw.githubusercontent.com/ehernandez101/streaming-retention-analysis/main/visuals/sessions_by_device.png)
+
+### Retention (D1 / D7 / D30)
+![Retention](https://raw.githubusercontent.com/ehernandez101/streaming-retention-analysis/main/visuals/retention_d1_d7_d30.png)
 
 ---
 
