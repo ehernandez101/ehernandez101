@@ -1,4 +1,9 @@
 # Enrique Hernandez 👋
+![Python](https://img.shields.io/badge/Python-Analytics-blue)
+![SQL](https://img.shields.io/badge/SQL-Reporting-green)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
+![Analytics](https://img.shields.io/badge/Digital-Analytics-purple)
+
 **Digital / Product Analytics | SQL • Python • Power BI | Streaming, Retention & Engagement Analytics**
 
 I’m a Database Engineer transitioning into Digital Analytics roles.  
@@ -60,5 +65,29 @@ Current focus:
 
 ---
 
+## 📈 Executive Summary
+
+### Key Insights
+- Premium subscribers generated the highest average watch time.
+- Mobile devices accounted for the largest share of platform sessions.
+- Retention decreased steadily from D1 to D30, highlighting churn risk after onboarding.
+- Engagement peaked during promotional periods before gradually declining.
+
+### Business Recommendations
+- Improve onboarding flows during the first 7 days.
+- Promote Premium plans to high-engagement users.
+- Increase mobile retention campaigns and personalized recommendations.
+- Monitor churn signals tied to declining session activity.
+
+---
+
+## 🔥 Featured Projects
+
+### 🎬 [Streaming Subscriber Analytics Dashboard](https://github.com/ehernandez101/streaming-retention-analysis)
+Subscriber growth, churn analysis, watch behavior, retention cohorts, and engagement KPIs.
+
+---
+
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/enriquehernandeznavyvet
+
