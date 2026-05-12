@@ -23,11 +23,30 @@ Current focus:
 
 ---
 
+## 🚧 Current Projects
+- Netflix-style Streaming Analytics Dashboard
+- Subscriber Churn Prediction Model
+- Executive KPI Reporting Dashboard
+- Marketing Funnel Performance Analytics
+
+---
+
 ## 🧰 Tools
 - SQL
+- Python (Pandas, Matplotlib)
 - Power BI
-- Python (Pandas / Matplotlib)
+- Tableau
 - Excel
+- KPI Reporting
+- Data Visualization
+- Business Intelligence
+- Product Analytics
+
+---
+
+## 📊 Dashboard Preview
+
+![Dashboard](visuals/dashboard_preview.png)
 
 ---
 
