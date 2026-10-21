@@ -1,93 +1,43 @@
-# Enrique Hernandez 👋
-![Python](https://img.shields.io/badge/Python-Analytics-blue)
-![SQL](https://img.shields.io/badge/SQL-Reporting-green)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboarding-yellow)
-![Analytics](https://img.shields.io/badge/Digital-Analytics-purple)
+# Enrique Hernandez
 
-**Digital / Product Analytics | SQL • Python • Power BI | Streaming, Retention & Engagement Analytics**
+**Data & Analytics | Database Engineer | U.S. Navy Veteran | Dallas–Fort Worth, TX**
 
-I’m a Database Engineer transitioning into Digital Analytics roles.  
-I build analytics projects focused on **subscriber retention, engagement trends, conversion funnels, and KPI storytelling.**.
+I turn data into decisions. By day I'm a Database Engineer II at Spectrum, working with Oracle, SQL, performance tuning and automation on enterprise systems. I'm building a portfolio that applies that foundation to streaming and entertainment analytics: retention, churn, content performance, and what they cost or save.
 
-Current focus:
-- Streaming platform analytics
-- Product engagement insights
-- Retention & churn analysis
-- Executive dashboard reporting
----
+Before tech, I spent 10 years in the U.S. Navy in aviation maintenance administration and operational coordination, which taught me to run reliable operations and explain complex problems clearly.
 
-## 🔥 Featured Projects
-- 🎬 **Streaming Subscriber Analytics Dashboard**
-  - Subscriber growth, churn analysis, watch behavior, retention cohorts, and engagement KPIs.
-- 🛒 **E-commerce Funnel + Revenue Insights — Retail Analytics**
-  - Checkout funnel analysis, AOV trends, repeat purchases, and revenue insights.
-- 📣 **Marketing Channel Performance — Growth Analytics**
-  - Channel spend efficiency, ROAS trends, CAC analysis, and campaign KPI reporting.
-- 🧪 **A/B Testing — Product Experimentation**
-  - Experiment measurement, KPI lift analysis, statistical testing, and decision reporting.
+**Tools:** SQL (Oracle) · Python (Pandas, scikit-learn) · Tableau · Power BI · Streamlit · Excel
 
 ---
 
-## 🚧 Current Projects
-- Netflix-style Streaming Analytics Dashboard
-- Subscriber Churn Prediction Model
-- Executive KPI Reporting Dashboard
-- Marketing Funnel Performance Analytics
+## Featured projects
+
+> Most of my projects use **synthetic data** I generated to demonstrate a method. Each README says so up front. Projects built on real public data are labeled as such.
+
+### 🎬 [Netflix Viewer Analytics](https://github.com/ehernandez101/Netflix-Viewer-Analytics)
+**Question:** Where do viewers drop off, and what does that churn cost?
+Flagship project: viewer engagement, churn analytics and content intelligence. *(Dashboard link: add Tableau Public URL here.)*
+
+### 🍥 [Crunchyroll-Style Content Analytics Framework](https://github.com/ehernandez101/Crunchyroll-Content-Analytics_Framework)
+**Question:** Which titles and genres drive retention, and which engagement patterns precede churn?
+KPI framework, viewer-journey analysis, churn model, experiment analysis and a Streamlit dashboard. Synthetic data. Independent project, not affiliated with Crunchyroll.
+
+### 📉 [Streaming Retention Analysis](https://github.com/ehernandez101/streaming-retention-analysis)
+**Question:** How do DAU and D1/D7/D30 retention differ by plan and device?
+SQL and Python KPI reporting with charts.
 
 ---
 
-## 🧰 Tools
-- SQL
-- Python (Pandas, Matplotlib)
-- Power BI
-- Tableau
-- Excel
-- KPI Reporting
-- Data Visualization
-- Business Intelligence
-- Product Analytics
+## In progress
+
+- [Subscriber Churn Prediction](https://github.com/ehernandez101/subscriber-churn-prediction): modeling and findings coming
+- [Netflix-Style Executive Dashboard](https://github.com/ehernandez101/Netflix-Style-Executive-Dashboard): KPI reporting
 
 ---
 
-## 📊 Dashboard Preview
+## What I'm aiming for
 
-### Daily Active Users
-![DAU](https://raw.githubusercontent.com/ehernandez101/streaming-retention-analysis/main/visuals/dau_trend.png)
+Roles where analytics, data engineering and storytelling meet: data and analytics engineering, technical program management, and technology operations, especially in streaming, gaming and entertainment.
 
-### Watch Minutes by Plan
-![Watch Minutes](https://raw.githubusercontent.com/ehernandez101/streaming-retention-analysis/main/visuals/watch_minutes_by_plan.png)
-
-### Sessions by Device
-![Sessions](https://raw.githubusercontent.com/ehernandez101/streaming-retention-analysis/main/visuals/sessions_by_device.png)
-
-### Retention (D1 / D7 / D30)
-![Retention](https://raw.githubusercontent.com/ehernandez101/streaming-retention-analysis/main/visuals/retention_d1_d7_d30.png)
-
----
-
-## 📈 Executive Summary
-
-### Key Insights
-- Premium subscribers generated the highest average watch time.
-- Mobile devices accounted for the largest share of platform sessions.
-- Retention decreased steadily from D1 to D30, highlighting churn risk after onboarding.
-- Engagement peaked during promotional periods before gradually declining.
-
-### Business Recommendations
-- Improve onboarding flows during the first 7 days.
-- Promote Premium plans to high-engagement users.
-- Increase mobile retention campaigns and personalized recommendations.
-- Monitor churn signals tied to declining session activity.
-
----
-
-## 🔥 Featured Projects
-
-### 🎬 [Streaming Subscriber Analytics Dashboard](https://github.com/ehernandez101/streaming-retention-analysis)
-Subscriber growth, churn analysis, watch behavior, retention cohorts, and engagement KPIs.
-
----
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/enriquehernandeznavyvet
-
+## Contact
+[LinkedIn](https://www.linkedin.com/in/enriquehernandeznavyvet)
