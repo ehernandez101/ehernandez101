@@ -16,7 +16,7 @@ Before tech, I spent 10 years in the U.S. Navy in aviation maintenance administr
 
 ### 🎬 [Netflix Viewer Analytics](https://github.com/ehernandez101/Netflix-Viewer-Analytics)
 **Question:** Where do viewers drop off, and what does that churn cost?
-Flagship project: viewer engagement, churn analytics and content intelligence. *(Dashboard link: add Tableau Public URL here.)*
+Flagship project: viewer engagement, churn analytics and content intelligence. 
 
 ### 🍥 [Crunchyroll-Style Content Analytics Framework](https://github.com/ehernandez101/Crunchyroll-Content-Analytics_Framework)
 **Question:** Which titles and genres drive retention, and which engagement patterns precede churn?
